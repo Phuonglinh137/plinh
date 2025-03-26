@@ -1,6 +1,7 @@
 .phandau {color: tomato; background-color:#f1f1f1;
              text-align: center; padding: 20px;}
-      .thucdon {background-color:#333;padding:5px}
-      .thucdon a{color:f2f2f2;}
-
-      .thucdon a: hover{}
+.thucdon {background-color:#333;padding:5px}
+.thucdon a{color:f2f2f2;}
+.thucdon a: hover{}
+.noidung {color: tomato; background-color:#f1f1f1;
+     padding: 20px;}
