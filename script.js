@@ -7,4 +7,6 @@ function login()
     window.open("home.html")
     document.getElementByTd(compiler).style.display="block"
   }
+   else 
+        document.write("Không hợp lệ")
 }
