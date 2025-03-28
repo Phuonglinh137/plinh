@@ -1,8 +1,8 @@
 .phandau {color: #333; background-color:#f1f1f1;
              text-align: center; padding: 40px;}
 .navigation-menu {background-color: #800000; height: 20px;}
-.thucdon {background-color:#800000; padding:10px; height:50px;}
+.thucdon {background-color:#880000; padding:10px; height:50px;}
 .thucdon a{color:#800000;}
 .thucdon a: hover{}
 .noidung {color: tomato; background-color:#f1f1f1;
-     padding: 5px; height: 300px}
+     padding: 5px; height: 300px;width: 200px}
